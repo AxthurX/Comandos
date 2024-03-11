@@ -1,0 +1,2 @@
+- Comando para remover ou adicionar o certificado ssl na web api .net
+dotnet dev-certs https (remover usa -clean)
