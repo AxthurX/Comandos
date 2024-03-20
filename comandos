@@ -1,2 +1,5 @@
 - Comando para remover ou adicionar o certificado ssl na web api .net
 dotnet dev-certs https (remover usa -clean)
+
+- Rodar devices em ionic cordova com target especifico
+ionic cordova run android --target=R9XN80436ZY --livereload --external --verbose
